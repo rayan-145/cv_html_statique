@@ -26,3 +26,6 @@ reprendre le texte de votre CV en markdown
 ## étape 2: template HTML
 
 - responsive: bootstrap
+
+## étape 3: corriger les erreurs détectées
+
