@@ -146,23 +146,6 @@ Corrigez toutes les erreurs bloquantes, puis recommittez et poussez.
 
 ---
 
-
-## 🧮 Barème (30 points)
-
-| Critère | Attendu | Points |
-|---|---|---:|
-| Dépôt + GitHub Pages | Dépôt propre, README présent, site en ligne | 4 |
-| Responsive | Lisible sur mobile, grille correcte, pas de débordements | 4 |
-| Validation W3C | Aucune erreur bloquante | 4 |
-| Structure H1–H6 (Outiref) | H1 unique pertinent, hiérarchie logique | 4 |
-| UX | Contraste, lisibilité, cohérence visuelle, navigation clavier | 4 |
-| SEO minimum | title, meta description, alt, balises sémantiques | 4 |
-| Performance (PageSpeed mobile) | Score ≥ 90 (≥ 80 si justifié dans README) | 4 |
-| Respect des délais | Remise aux dates indiquées | 2 |
-| **Total** |  | **30** |
-
----
-
 ## 🔗 Ressources utiles
 
 - W3C Validator : https://validator.w3.org/
